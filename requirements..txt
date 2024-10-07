@@ -1,5 +1,5 @@
 numpy
 pandas
 seaborn
-xgboost
+xgboost==1.13.0
 scikit-learn
